@@ -32,7 +32,7 @@
                   <configuration>
                    <archive>
 					<manifest>
-					   <!--  <addClasspath>true</addClasspath> -->
+					     <addClasspath>true</addClasspath> 
 						<mainClass>com.infy.lakshmi.VertxFirstProject.App</mainClass>
 					</manifest>
 				    </archive>
